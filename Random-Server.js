@@ -8,6 +8,7 @@ function generateRandomPort() {
 
 
 const server = http.createServer((req, res) => {
+// Print the status code
   res.writeHead(200, {'Content-Type': 'text/plain'});
   res.end('Hello, this is a random server!\n');
 });
