@@ -13,7 +13,7 @@ const server = http.createServer((req, res) => {
   res.end('Hello, this is a random server!\n');
 });
 
-
+// Generate the random port number
 const port = generateRandomPort();
 
 
