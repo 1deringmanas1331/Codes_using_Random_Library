@@ -1,7 +1,7 @@
 
 # Welcome to the Random Data Generator Repository!
 
-This repository houses a collection of programs designed to generate random data across various domains. Leveraging the power of JavaScript, each module provides a sophisticated algorithm to produce diverse and realistic outputs.
+This repository houses a collection of programs designed to generate random data across various domains. Leveraging the power of python, each module provides a sophisticated algorithm to produce diverse and realistic outputs.
 
 1. ```Random-Server-port-Generator:```
 A versatile module for generating random server names, ideal for system administrators and developers seeking dynamic server nomenclature.
